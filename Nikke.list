@@ -11,10 +11,6 @@ DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,iegcom.com
 
-#ACE
-DOMAIN,down.anticheatexpert.com
-DOMAIN-SUFFIX,anticheatexpert.com
-
 #PC NA
 DOMAIN,catalog.gamepass.com
 DOMAIN,na1.centauriglobal.com
