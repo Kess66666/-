@@ -29,6 +29,10 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 DOMAIN-SUFFIX,doh.360.cn
 DOMAIN-SUFFIX,doh.apad.pro
+DOMAIN-SUFFIX,hk.beta.xns.one
+DOMAIN-SUFFIX,hk2.beta.xns.one
+DOMAIN-SUFFIX,hk.kahkee.xns.one
+DOMAIN-SUFFIX,xnshk.azurewebsites.net
 
 
 
