@@ -5,7 +5,10 @@ DOMAIN,aws-na-dr.intlgame.com
 DOMAIN,data-aws-na.intlgame.com
 DOMAIN,pc.crashsight-us.iegcom.com
 DOMAIN,na-nikke-aws.playerinfinite.com
+DOMAIN-SUFFIX,anticheatexpert.com
+DOMAIN-SUFFIX,centauriglobal.com
 IP-CIDR,43.152.114.31/32,no-resolve
+
 
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,intlgame.com
