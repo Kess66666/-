@@ -8,12 +8,12 @@ DOMAIN,pc.crashsight-us.iegcom.com
 DOMAIN,na-nikke-aws.playerinfinite.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,centauriglobal.com
-IP-CIDR,43.152.114.31/32,no-resolve
-
-
+DOMAIN,down.anticheatexpert.com
+DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,iegcom.com
+IP-CIDR,43.152.114.31/32,no-resolve
 
 #PC NA
 DOMAIN,catalog.gamepass.com
