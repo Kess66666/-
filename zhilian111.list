@@ -22,12 +22,7 @@ DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,doh.360.cn
 DOMAIN-SUFFIX,doh.apad.pro
-DOMAIN-SUFFIX,xns.one
 DOMAIN-SUFFIX,xnshk.azurewebsites.net
-DOMAIN-SUFFIX,hk.beta.xns.one
-DOMAIN-SUFFIX,hk.kahkee.xns.one
-DOMAIN-SUFFIX,hk2.beta.xns.one
-DOMAIN-SUFFIX,hk1.beta.xns.one
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.147.1.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
