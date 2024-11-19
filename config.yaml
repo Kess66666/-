@@ -18,7 +18,7 @@ port: 7890
 socks-port: 7891
 redir-port: 7892
 mixed-port: 7893
-tproxy-port: 7894
+tproxy-port: 7895
 ipv6: false
 allow-lan: true
 unified-delay: true
@@ -68,7 +68,9 @@ sniffer:
     - "dlg.io.mi.com"
     - "+.push.apple.com"
     - "+.apple.com"
-    
+ experimental:
+    sniff-tls-sni: false  
+
 # 代理模式
 tun:
   enable: true
@@ -80,11 +82,12 @@ tun:
   auto-route: true
   auto-redirect: true
   auto-detect-interface: true
+
   
 # DNS模块
 dns:
   enable: true
-  listen: 192.168.100.1:7874
+  listen: 0.0.0.0:7874
   ipv6: false
   respect-rules: true
   # 模式切换 redir-host / fake-ip
@@ -261,9 +264,9 @@ proxy-groups:
   - {name: ♻️ 自动选择, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连)).)*$"}
   - {name: 🌐 全部节点, type: select, include-all: true}
 rules:
-  - RULE-SET,private_domain,🟢 直连
-  - RULE-SET,apple_domain,🍎 Apple
-  - RULE-SET,proxylite,🚀 节点选择
+  - RULE-SET,geoip,private,no-resolve,🟢 直连
+  - RULE-SET,geosite,private,🟢 直连
+  - RULE-SET,geosite,apple-cn,🟢 直连
   - RULE-SET,ai,🤖 ChatGPT
   - RULE-SET,github_domain,👨🏿‍💻 GitHub
   - RULE-SET,youtube_domain,📹 YouTube
