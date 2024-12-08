@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,IP138.com
 DOMAIN,region1.v2.argotunnel.com
 DOMAIN,region2.v2.argotunnel.com
+DOMAIN,_v2-origintunneld._tcp.argotunnel.com.lan
+DOMAIN,_v2-origintunneld._tcp.argotunnel.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
