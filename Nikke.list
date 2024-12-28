@@ -1,5 +1,17 @@
 DOMAIN,global-lobby.nikke-kr.com
+DOMAIN,jp-lobby.nikke-kr.com
+DOMAIN,kr-lobby.nikke-kr.com
+DOMAIN,global-lobby.nikke-kr.com
+DOMAIN,hmt-lobby.nikke-kr.com
+DOMAIN,jp-match.nikke-kr.com
+DOMAIN,us-match.nikke-kr.com 
+DOMAIN,kr-match.nikke-kr.com
+DOMAIN,global-match.nikke-kr.com
+DOMAIN,sea-match.nikke-kr.com
+DOMAIN,hmt-match.nikke-kr.com 
+DOMAIN,aws-na.intlgame.com
 DOMAIN,cloud.nikke-kr.com
+DOMAIN,nikke-en.com
 DOMAIN,sea-lobby.nikke-kr.com
 DOMAIN,sg-vas.intlgame.com
 DOMAIN,aws-na-dr.intlgame.com
