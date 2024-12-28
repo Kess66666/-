@@ -26,6 +26,11 @@ DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,iegcom.com
+DOMAIN-SUFFIX, nikke-de.com
+DOMAIN-SUFFIX, nikke-en.com
+DOMAIN-SUFFIX, nikke-fr.com
+DOMAIN-SUFFIX, nikke-jp.com
+DOMAIN-SUFFIX, nikke-sea.com
 IP-CIDR,43.152.114.31/32,no-resolve
 
 #PC NA
