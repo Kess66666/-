@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,emby.awatv.de
+DOMAIN-SUFFIX,movie.emby.blog
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
