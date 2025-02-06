@@ -11,10 +11,8 @@ DOMAIN-SUFFIX,wzry.qq.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,IP138.com
 DOMAIN-SUFFIX,argotunnel.com
-DOMAIN,region1.v2.argotunnel.com
-DOMAIN,region2.v2.argotunnel.com
-DOMAIN,_v2-origintunneld._tcp.argotunnel.com.lan
-DOMAIN,_v2-origintunneld._tcp.argotunnel.com
+DOMAIN-SUFFIX,emby.awatv.de
+DOMAIN-SUFFIX,movie.emby.blog
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
