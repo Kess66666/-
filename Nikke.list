@@ -1,12 +1,7 @@
 DOMAIN,global-lobby.nikke-kr.com
 DOMAIN,ios-us-crashsight.iegcom.com
-DOMAIN,jp-lobby.nikke-kr.com
-DOMAIN,kr-lobby.nikke-kr.com
 DOMAIN,global-lobby.nikke-kr.com
 DOMAIN,hmt-lobby.nikke-kr.com
-DOMAIN,jp-match.nikke-kr.com
-DOMAIN,us-match.nikke-kr.com 
-DOMAIN,kr-match.nikke-kr.com
 DOMAIN,global-match.nikke-kr.com
 DOMAIN,sea-match.nikke-kr.com
 DOMAIN,hmt-match.nikke-kr.com 
@@ -23,11 +18,11 @@ DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,iegcom.com
-DOMAIN-SUFFIX, nikke-de.com
-DOMAIN-SUFFIX, nikke-en.com
-DOMAIN-SUFFIX, nikke-fr.com
-DOMAIN-SUFFIX, nikke-jp.com
-DOMAIN-SUFFIX, nikke-sea.com
+DOMAIN-SUFFIX,nikke-de.com
+DOMAIN-SUFFIX,nikke-en.com
+DOMAIN-SUFFIX,nikke-fr.com
+DOMAIN-SUFFIX,nikke-jp.com
+DOMAIN-SUFFIX,nikke-sea.com
 IP-CIDR,43.152.114.31/32,no-resolve
 
 #PC NA
