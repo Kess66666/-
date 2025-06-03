@@ -14,6 +14,9 @@ DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,movie.emby.blog
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,istoreos.com
+DOMAIN-SUFFIX,linkease.com
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
