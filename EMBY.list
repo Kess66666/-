@@ -1,4 +1,5 @@
 # NAME: Emby
+IP-CIDR,78.46.135.215,no-resolve
 DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,odysseyplus
 DOMAIN-KEYWORD,emby.wtf
@@ -87,5 +88,4 @@ DOMAIN-SUFFIX,cf.yunti.online
 DOMAIN-SUFFIX,m3u8.girigirilove.com
 DOMAIN-SUFFIX,ykk.emby.moe
 DOMAIN-SUFFIX,ykkplay.xxlb.net
-IP-CIDR,78.46.135.215,no-resolve
 
