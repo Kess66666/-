@@ -1,6 +1,5 @@
 # NAME: Emby
-IP-CIDR,78.46.135.215,no-resolve
-DOMAIN-KEYWORD,emby
+IP-CIDR,78.46.135.0/24,no-resolve
 DOMAIN-KEYWORD,odysseyplus
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmaooo.com
