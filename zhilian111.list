@@ -42,6 +42,10 @@ DOMAIN-SUFFIX,hk.pro.xns.one
 DOMAIN-SUFFIX,jp.pro.xns.one
 DOMAIN-SUFFIX,kr.pro.xns.one
 DOMAIN-SUFFIX,hk1.pro.xns.one
+DOMAIN-SUFFIX,global.novaxns.one
+DOMAIN-SUFFIX,b.xns.one
+DOMAIN-SUFFIX,l.xns.one
+DOMAIN-SUFFIX,f.xns.one
 IP-CIDR,142.248.150.166/32,no-resolve
 IP-CIDR,45.141.139.16/32,no-resolve
 IP-CIDR,45.249.245.247/32,no-resolve
