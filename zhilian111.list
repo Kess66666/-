@@ -36,6 +36,15 @@ DOMAIN-SUFFIX,nxns.link
 DOMAIN-SUFFIX,yfjc.xyz
 DOMAIN-SUFFIX,popcornlab.de
 DOMAIN-SUFFIX,vsja.pbnma.lol
+DOMAIN-SUFFIX,n.xns.one
+DOMAIN-SUFFIX,v.xns.one
+DOMAIN-SUFFIX,hk.pro.xns.one
+DOMAIN-SUFFIX,jp.pro.xns.one
+DOMAIN-SUFFIX,kr.pro.xns.one
+DOMAIN-SUFFIX,hk1.pro.xns.one
+IP-CIDR,142.248.150.166/32,no-resolve
+IP-CIDR,45.141.139.16/32,no-resolve
+IP-CIDR,45.249.245.247/32,no-resolve
 IP-CIDR,8.217.246.48/32,no-resolve
 IP-CIDR,45.249.245.247/32,no-resolve
 IP-CIDR,172.93.220.162/32,no-resolve
