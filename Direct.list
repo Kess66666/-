@@ -15,6 +15,24 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+# 拼多多
+DOMAIN-KEYWORD,pinduoduo,DIRECT
+DOMAIN-KEYWORD,yangkeduo,DIRECT
+  
+  # 字节跳动 (抖音/今日头条)
+DOMAIN-KEYWORD,bytedance,DIRECT
+DOMAIN-KEYWORD,byteimg,DIRECT
+DOMAIN-KEYWORD,snssdk,DIRECT
+  
+  # 阿里/支付宝
+DOMAIN-KEYWORD,alipay,DIRECT
+DOMAIN-KEYWORD,alibaba,DIRECT
+DOMAIN-KEYWORD,taobao,DIRECT
+  
+  # 腾讯/微信 (如果你不想微信走代理)
+DOMAIN-KEYWORD,tencent,DIRECT
+DOMAIN-KEYWORD,qpic,DIRECT
+DOMAIN-KEYWORD,qlogo,DIRECT
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
